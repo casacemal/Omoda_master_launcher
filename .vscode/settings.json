@@ -1,0 +1,8 @@
+{
+  "IDX.agenticWorkspace": true,
+  "interactiveWindow.promptToSaveOnClose": true,
+  "chat.promptFiles": false,
+  "chat.promptFilesLocations": {
+    "./home/user/myapp/prompt.md": true
+  }
+}
